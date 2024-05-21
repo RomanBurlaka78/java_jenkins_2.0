@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01a2cb71-1dce-4a10-8921-a27d9f53efe9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/roman/jenkins/FreestyleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/FreestyleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/cucumber/FreestyleProject.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/roman/jenkins/FreestyleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/roman/jenkins/FreestyleTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="01a2cb71-1dce-4a10-8921-a27d9f53efe9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
