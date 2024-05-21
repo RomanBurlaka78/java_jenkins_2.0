@@ -1,0 +1,3 @@
+# Created at 2024-05-20T22:21:26.291
+Duplicate key io.cucumber.testng.AbstractTestNGCucumberTests.runScenario (attempted merging values [MethodInstance method=AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:roman.jenkins.runner.CucumberTest@1cbbffcd] instance=roman.jenkins.runner.CucumberTest@1cbbffcd] and [MethodInstance method=AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:school.redrover.runner.CucumberTest@7ed7259e] instance=school.redrover.runner.CucumberTest@7ed7259e])
+
