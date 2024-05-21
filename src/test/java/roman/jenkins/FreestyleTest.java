@@ -25,7 +25,7 @@ public class FreestyleTest extends BaseTest {
 
     }
 
-    @Ignore
+
     @Test(dependsOnMethods = "testCreate")
     public void testCreateWithSameName() {
         String homePage = new HomePage(getDriver())
@@ -36,7 +36,7 @@ public class FreestyleTest extends BaseTest {
         Assert.assertEquals(homePage, "» A job already exists with the name ‘ProjectName’");
     }
 
-    @Ignore
+
     @Test(dependsOnMethods = "testCreate")
     public void testisExistFreestyleProject() {
         boolean homePage = new HomePage(getDriver())
@@ -46,7 +46,7 @@ public class FreestyleTest extends BaseTest {
         Assert.assertEquals(homePage, true);
     }
 
-    @Ignore
+
     @Test(dependsOnMethods = "testCreate")
     public void testRenameFreestyleProject() {
         boolean homePage = new HomePage(getDriver())
