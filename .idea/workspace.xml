@@ -5,97 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a2cb71-1dce-4a10-8921-a27d9f53efe9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/FolderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/FreestyleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/AboutJenkinsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/CredentialProvidersPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/CredentialsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/CustomLogRecorderPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/LoadStatisticsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/LogInPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/ManageJenkinsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/MovePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/NewItemPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/PeoplePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/PluginsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/RenamePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/RestApiPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/SearchResultQueryPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/SecurityPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/SystemInfoPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/SystemLogPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/WebsiteJenkinsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/WorkspacePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/base/BaseConfigurationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/base/BaseDetailsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/base/BaseErrorPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/base/BaseModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/base/BaseNewViewPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/base/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/base/BaseViewConfigPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/base/BaseViewPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/builds/BuildEditInformationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/builds/BuildHistoryPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/builds/BuildPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/builds/BuildWithParametersPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/builds/ReplayBuildPipelinePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/errors/AngryErrorPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/errors/ErrorPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/errors/RenameErrorPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/jobs/MultibranchPipelineDeletePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/jobs/configs/FolderConfigurationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/jobs/configs/FreestyleProjectConfigurePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/jobs/configs/MultiConfigurationConfigurePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/jobs/configs/MultibranchPipelineConfigurationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/jobs/configs/OrganizationFolderConfigurationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/jobs/configs/PipelineConfigurePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/jobs/details/FolderDetailsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/jobs/details/FreestyleProjectDetailsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/jobs/details/MultiConfigurationDetailsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/jobs/details/MultibranchPipelineDetailsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/jobs/details/OrganizationFolderDetailsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/jobs/details/PipelineDetailsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/logrecorders/ConfigureLogRecorderPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/logrecorders/LogRecordersDetailsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/logrecorders/NewLogRecorderPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/nodes/BuiltInNodeConfigurationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/nodes/BuiltInNodeDetailPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/nodes/NodeCofigurationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/nodes/NodeCreatePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/nodes/NodeDetailsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/nodes/NodeMarkOfflinePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/nodes/NodeUpdateOfflineReasonPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/nodes/NodesListPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/users/CreateNewUserPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/users/CreatedUserPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/users/UserBuildPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/users/UserConfigurationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/users/UserCreateViewPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/users/UserDatabasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/users/UserPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/users/UserViewPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/view/GlobalViewConfigPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/view/ListViewConfigPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/view/MyViewConfigPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/view/MyViewsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/view/NewViewPageFromDashboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/view/NewViewPageFromMyViewsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/view/ViewPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/runner/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/runner/CucumberDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/runner/CucumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/runner/FilterForTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/runner/JenkinsUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/runner/ProjectUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/runner/SeleniumUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/runner/TestUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/runner/order/OrderForTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/runner/order/OrderForTestsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/runner/order/OrderUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/cucumber/FreestyleProject.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/local.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/local.properties.TEMPLATE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/wait-for-jenkins.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/cancel.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,22 +32,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Maven.java_jenkins_local_2.0_Roman [test].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TestNG.FirstTest.firstTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.FolderTest.testCreate.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.FreestyleTest.testCreate.executor&quot;: &quot;Run&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Disk D/RedRover.shools/java_jenkins_local_2.0/java_jenkins_local_2.0&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Disk D/RedRover.shools/java_jenkins_local_2.0/java_jenkins_local_2.0/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.java_jenkins_local_2.0_Roman [test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.FirstTest.firstTest.executor": "Run",
+    "TestNG.FolderTest.testCreate.executor": "Run",
+    "TestNG.FreestyleTest.executor": "Run",
+    "TestNG.FreestyleTest.testCreate.executor": "Run",
+    "TestNG.FreestyleTest.testRenameFreestyleProject.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Disk D/RedRover.shools/java_jenkins_local_2.0/java_jenkins_local_2.0",
+    "onboarding.tips.debug.path": "C:/Disk D/RedRover.shools/java_jenkins_local_2.0/java_jenkins_local_2.0/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0" />
@@ -145,7 +59,7 @@
       <recent name="roman.jenkins.model.base" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FreestyleTest.testCreate">
+  <component name="RunManager" selected="TestNG.FreestyleTest.testRenameFreestyleProject">
     <configuration name="FirstTest.firstTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java_jenkins_local_2.0" />
       <option name="PACKAGE_NAME" value="" />
@@ -176,6 +90,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FreestyleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_jenkins_local_2.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="roman.jenkins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="roman.jenkins" />
+      <option name="MAIN_CLASS_NAME" value="roman.jenkins.FreestyleTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FreestyleTest.testCreate" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java_jenkins_local_2.0" />
       <extension name="coverage">
@@ -194,8 +125,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FreestyleTest.testRenameFreestyleProject" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_jenkins_local_2.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="roman.jenkins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="roman.jenkins" />
+      <option name="MAIN_CLASS_NAME" value="roman.jenkins.FreestyleTest" />
+      <option name="METHOD_NAME" value="testRenameFreestyleProject" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.FreestyleTest.testRenameFreestyleProject" />
+        <item itemvalue="TestNG.FreestyleTest" />
         <item itemvalue="TestNG.FreestyleTest.testCreate" />
         <item itemvalue="TestNG.FolderTest.testCreate" />
         <item itemvalue="TestNG.FirstTest.firstTest" />

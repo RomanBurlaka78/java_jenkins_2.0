@@ -5,7 +5,7 @@ set -e
 times=15
 while ! curl -sSL 'http://localhost:8080/login?from=%2F' 2>&1 \
              | grep '<html' >/dev/null; do
-    echo 'Waiting for start Jenkins'
+    echo 'Waiting for the Jenkins'
     sleep 10
     times=$(($times - 1))
 
