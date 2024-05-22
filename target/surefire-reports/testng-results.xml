@@ -2,66 +2,66 @@
 <testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-21T12:16:20 CEST" name="Surefire suite" finished-at="2024-05-21T12:16:35 CEST" duration-ms="14851">
+  <suite started-at="2024-05-22T22:53:10 CEST" name="Surefire suite" finished-at="2024-05-22T22:53:23 CEST" duration-ms="13257">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:roman.jenkins.runner.CucumberTest@41e36e46]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2024-05-21T12:16:20 CEST" name="Surefire test" finished-at="2024-05-21T12:16:35 CEST" duration-ms="14851">
+    <test started-at="2024-05-22T22:53:10 CEST" name="Surefire test" finished-at="2024-05-22T22:53:23 CEST" duration-ms="13257">
       <class name="roman.jenkins.runner.CucumberTest">
-        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:roman.jenkins.runner.CucumberTest@41e36e46]" started-at="2024-05-21T12:16:35 CEST" name="setUpClass" finished-at="2024-05-21T12:16:35 CEST" duration-ms="249" status="PASS">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:roman.jenkins.runner.CucumberTest@41e36e46]" started-at="2024-05-22T22:53:23 CEST" name="setUpClass" finished-at="2024-05-22T22:53:23 CEST" duration-ms="347" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@6134ac4a]]>
+                <![CDATA[org.testng.TestRunner@3f3ddbd9]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:roman.jenkins.runner.CucumberTest@41e36e46]" started-at="2024-05-21T12:16:35 CEST" name="tearDownClass" finished-at="2024-05-21T12:16:35 CEST" duration-ms="7" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:roman.jenkins.runner.CucumberTest@41e36e46]" started-at="2024-05-22T22:53:23 CEST" name="tearDownClass" finished-at="2024-05-22T22:53:23 CEST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- roman.jenkins.runner.CucumberTest -->
       <class name="roman.jenkins.runner.order.OrderForTestsTest">
-        <test-method signature="orderMethodsCycleDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@15c43bd9]" started-at="2024-05-21T12:16:35 CEST" name="orderMethodsCycleDepTest" finished-at="2024-05-21T12:16:35 CEST" duration-ms="13" status="PASS">
+        <test-method signature="orderMethodsCycleDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@15c43bd9]" started-at="2024-05-22T22:53:23 CEST" name="orderMethodsCycleDepTest" finished-at="2024-05-22T22:53:23 CEST" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orderMethodsCycleDepTest -->
-        <test-method signature="orderMethodsForkDownDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@15c43bd9]" started-at="2024-05-21T12:16:35 CEST" name="orderMethodsForkDownDepTest" finished-at="2024-05-21T12:16:35 CEST" duration-ms="4" status="PASS">
+        <test-method signature="orderMethodsForkDownDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@15c43bd9]" started-at="2024-05-22T22:53:23 CEST" name="orderMethodsForkDownDepTest" finished-at="2024-05-22T22:53:23 CEST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orderMethodsForkDownDepTest -->
-        <test-method signature="orderMethodsForkUpDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@15c43bd9]" started-at="2024-05-21T12:16:35 CEST" name="orderMethodsForkUpDepTest" finished-at="2024-05-21T12:16:35 CEST" duration-ms="6" status="PASS">
+        <test-method signature="orderMethodsForkUpDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@15c43bd9]" started-at="2024-05-22T22:53:23 CEST" name="orderMethodsForkUpDepTest" finished-at="2024-05-22T22:53:23 CEST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orderMethodsForkUpDepTest -->
-        <test-method signature="orderMethodsNoDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@15c43bd9]" started-at="2024-05-21T12:16:35 CEST" name="orderMethodsNoDepTest" finished-at="2024-05-21T12:16:35 CEST" duration-ms="4" status="PASS">
+        <test-method signature="orderMethodsNoDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@15c43bd9]" started-at="2024-05-22T22:53:23 CEST" name="orderMethodsNoDepTest" finished-at="2024-05-22T22:53:23 CEST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orderMethodsNoDepTest -->
-        <test-method signature="orderMethodsOneGroupDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@15c43bd9]" started-at="2024-05-21T12:16:35 CEST" name="orderMethodsOneGroupDepTest" finished-at="2024-05-21T12:16:35 CEST" duration-ms="5" status="PASS">
+        <test-method signature="orderMethodsOneGroupDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@15c43bd9]" started-at="2024-05-22T22:53:23 CEST" name="orderMethodsOneGroupDepTest" finished-at="2024-05-22T22:53:23 CEST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orderMethodsOneGroupDepTest -->
-        <test-method signature="orderMethodsTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@15c43bd9]" started-at="2024-05-21T12:16:35 CEST" name="orderMethodsTest" finished-at="2024-05-21T12:16:35 CEST" duration-ms="18" status="PASS">
+        <test-method signature="orderMethodsTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@15c43bd9]" started-at="2024-05-22T22:53:23 CEST" name="orderMethodsTest" finished-at="2024-05-22T22:53:23 CEST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orderMethodsTest -->
-        <test-method signature="orderMethodsTwoDifferentGroupsDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@15c43bd9]" started-at="2024-05-21T12:16:35 CEST" name="orderMethodsTwoDifferentGroupsDepTest" finished-at="2024-05-21T12:16:35 CEST" duration-ms="3" status="PASS">
+        <test-method signature="orderMethodsTwoDifferentGroupsDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@15c43bd9]" started-at="2024-05-22T22:53:23 CEST" name="orderMethodsTwoDifferentGroupsDepTest" finished-at="2024-05-22T22:53:23 CEST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orderMethodsTwoDifferentGroupsDepTest -->
       </class> <!-- roman.jenkins.runner.order.OrderForTestsTest -->
       <class name="roman.jenkins.FreestyleTest">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:roman.jenkins.FreestyleTest@76508ed1]" started-at="2024-05-21T12:16:20 CEST" name="beforeClass" finished-at="2024-05-21T12:16:20 CEST" duration-ms="86" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:roman.jenkins.FreestyleTest@76508ed1]" started-at="2024-05-22T22:53:10 CEST" name="beforeClass" finished-at="2024-05-22T22:53:10 CEST" duration-ms="30" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:roman.jenkins.FreestyleTest@76508ed1]" started-at="2024-05-21T12:16:21 CEST" name="beforeMethod" finished-at="2024-05-21T12:16:30 CEST" duration-ms="9042" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:roman.jenkins.FreestyleTest@76508ed1]" started-at="2024-05-22T22:53:10 CEST" name="beforeMethod" finished-at="2024-05-22T22:53:16 CEST" duration-ms="6479" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -72,11 +72,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="testCreate()[pri:0, instance:roman.jenkins.FreestyleTest@76508ed1]" started-at="2024-05-21T12:16:30 CEST" name="testCreate" finished-at="2024-05-21T12:16:34 CEST" duration-ms="4253" status="PASS">
+        <test-method signature="testCreate()[pri:0, instance:roman.jenkins.FreestyleTest@76508ed1]" started-at="2024-05-22T22:53:16 CEST" name="testCreate" finished-at="2024-05-22T22:53:21 CEST" duration-ms="4488" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCreate -->
-        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:roman.jenkins.FreestyleTest@76508ed1]" started-at="2024-05-21T12:16:34 CEST" name="afterMethod" finished-at="2024-05-21T12:16:35 CEST" duration-ms="925" status="PASS">
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:roman.jenkins.FreestyleTest@76508ed1]" started-at="2024-05-22T22:53:21 CEST" name="afterMethod" finished-at="2024-05-22T22:53:23 CEST" duration-ms="1735" status="PASS">
           <params>
             <param index="0">
               <value>

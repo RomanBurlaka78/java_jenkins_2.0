@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a2cb71-1dce-4a10-8921-a27d9f53efe9" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/roman/jenkins/FreestyleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/FreestyleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/roman/jenkins/FreestyleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/roman/jenkins/FreestyleTest.class" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.github/wait-for-jenkins.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/cancel.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" />
+>>>>>>> main
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +46,18 @@
     "TestNG.FirstTest.firstTest.executor": "Run",
     "TestNG.FolderTest.testCreate.executor": "Run",
     "TestNG.FreestyleTest.executor": "Run",
+<<<<<<< HEAD
     "TestNG.FreestyleTest.testAddDescriptions.executor": "Run",
     "TestNG.FreestyleTest.testCreate.executor": "Run",
     "TestNG.FreestyleTest.testRenameFreestyleProject.executor": "Run",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Disk D/RedRover.shools/java_jenkins_local_2.0/java_jenkins_local_2.0/.github",
+=======
+    "TestNG.FreestyleTest.testCreate.executor": "Run",
+    "TestNG.FreestyleTest.testRenameFreestyleProject.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Disk D/RedRover.shools/java_jenkins_local_2.0/java_jenkins_local_2.0",
+>>>>>>> main
     "onboarding.tips.debug.path": "C:/Disk D/RedRover.shools/java_jenkins_local_2.0/java_jenkins_local_2.0/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -64,7 +77,23 @@
       <recent name="roman.jenkins.model.base" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="TestNG.FreestyleTest.testAddDescriptions">
+=======
+  <component name="RunManager" selected="TestNG.FreestyleTest.testRenameFreestyleProject">
+    <configuration name="FirstTest.firstTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_jenkins_local_2.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="METHOD_NAME" value="firstTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+>>>>>>> main
     <configuration name="FolderTest.testCreate" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java_jenkins_local_2.0" />
       <extension name="coverage">
@@ -100,6 +129,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="FreestyleTest.testAddDescriptions" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java_jenkins_local_2.0" />
       <extension name="coverage">
@@ -118,6 +148,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+=======
+>>>>>>> main
     <configuration name="FreestyleTest.testCreate" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java_jenkins_local_2.0" />
       <extension name="coverage">
@@ -156,7 +188,12 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="TestNG.FreestyleTest.testAddDescriptions" />
+=======
+        <item itemvalue="TestNG.FreestyleTest.testRenameFreestyleProject" />
+        <item itemvalue="TestNG.FreestyleTest" />
+>>>>>>> main
         <item itemvalue="TestNG.FreestyleTest.testCreate" />
         <item itemvalue="TestNG.FreestyleTest.testRenameFreestyleProject" />
         <item itemvalue="TestNG.FreestyleTest" />
