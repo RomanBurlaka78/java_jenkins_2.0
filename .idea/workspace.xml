@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a2cb71-1dce-4a10-8921-a27d9f53efe9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/wait-for-jenkins.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/cancel.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/roman/jenkins/FreestyleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/FreestyleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/roman/jenkins/FreestyleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/roman/jenkins/FreestyleTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +40,11 @@
     "TestNG.FirstTest.firstTest.executor": "Run",
     "TestNG.FolderTest.testCreate.executor": "Run",
     "TestNG.FreestyleTest.executor": "Run",
+    "TestNG.FreestyleTest.testAddDescriptions.executor": "Run",
     "TestNG.FreestyleTest.testCreate.executor": "Run",
     "TestNG.FreestyleTest.testRenameFreestyleProject.executor": "Run",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Disk D/RedRover.shools/java_jenkins_local_2.0/java_jenkins_local_2.0",
+    "last_opened_file_path": "C:/Disk D/RedRover.shools/java_jenkins_local_2.0/java_jenkins_local_2.0/.github",
     "onboarding.tips.debug.path": "C:/Disk D/RedRover.shools/java_jenkins_local_2.0/java_jenkins_local_2.0/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -52,26 +53,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\.github" />
       <recent name="C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0" />
       <recent name="C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\src\test\java\roman\jenkins\model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\.github" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="roman.jenkins.model.base" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FreestyleTest.testRenameFreestyleProject">
-    <configuration name="FirstTest.firstTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="java_jenkins_local_2.0" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTest" />
-      <option name="METHOD_NAME" value="firstTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.FreestyleTest.testAddDescriptions">
     <configuration name="FolderTest.testCreate" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java_jenkins_local_2.0" />
       <extension name="coverage">
@@ -101,6 +94,24 @@
       <option name="PACKAGE_NAME" value="roman.jenkins" />
       <option name="MAIN_CLASS_NAME" value="roman.jenkins.FreestyleTest" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreestyleTest.testAddDescriptions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_jenkins_local_2.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="roman.jenkins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="roman.jenkins" />
+      <option name="MAIN_CLASS_NAME" value="roman.jenkins.FreestyleTest" />
+      <option name="METHOD_NAME" value="testAddDescriptions" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -145,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.FreestyleTest.testAddDescriptions" />
+        <item itemvalue="TestNG.FreestyleTest.testCreate" />
         <item itemvalue="TestNG.FreestyleTest.testRenameFreestyleProject" />
         <item itemvalue="TestNG.FreestyleTest" />
-        <item itemvalue="TestNG.FreestyleTest.testCreate" />
         <item itemvalue="TestNG.FolderTest.testCreate" />
-        <item itemvalue="TestNG.FirstTest.firstTest" />
       </list>
     </recent_temporary>
   </component>

@@ -8,10 +8,13 @@ import roman.jenkins.model.jobs.details.FreestyleProjectDetailsPage;
 import roman.jenkins.model.HomePage;
 import roman.jenkins.runner.BaseTest;
 
+import static org.testng.Assert.*;
+
 
 public class FreestyleTest extends BaseTest {
     private static final String PROJECT_NAME = "ProjectName";
     private static final String NEW_PROJECT_NAME = "NewProjectName";
+    private static final String DESCRIPTION_PROJECT = "This is description on project";
 
     @Test
     public void testCreate() {
@@ -61,6 +64,19 @@ public class FreestyleTest extends BaseTest {
 
         Assert.assertEquals(homePage, true);
 
+    }
+
+    @Test(dependsOnMethods = "testCreate")
+    public void testAddDescriptions() {
+        String actualDescription = new HomePage(getDriver())
+                .goHomePage()
+                .clickJobByName(PROJECT_NAME, new FreestyleProjectDetailsPage(getDriver()))
+                .clickAddOrEditDescription()
+                .insertDescriptionText(DESCRIPTION_PROJECT)
+                .clickSaveButton()
+                .getDescriptionText();
+
+        assertEquals(actualDescription, DESCRIPTION_PROJECT);
     }
 
 
