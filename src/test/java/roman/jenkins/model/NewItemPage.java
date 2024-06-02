@@ -118,7 +118,7 @@ public class NewItemPage extends BasePage<NewItemPage> {
     }
 
     public String getInvalidNameErrorMessage() {
-        return getWait2().until(ExpectedConditions.visibilityOf(invalidNameErrorMessage)).getText();
+        return getWait5().until(ExpectedConditions.visibilityOf(invalidNameErrorMessage)).getText();
     }
 
     public FreestyleProjectConfigurePage createFreestyleProject(String projectName) {

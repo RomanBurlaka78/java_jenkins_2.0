@@ -4,6 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import roman.jenkins.model.builds.BuildPage;
 import roman.jenkins.model.jobs.configs.FreestyleProjectConfigurePage;
 import roman.jenkins.model.HomePage;
@@ -25,7 +26,7 @@ public class FreestyleProjectDetailsPage extends BaseDetailsPage<FreestyleProjec
     private WebElement projectDescriptionInputField;
 
     @FindBy(xpath = "//*[@id='tasks']/div[6]/span/a/span[2]")
-    private WebElement deleteProject;
+    private WebElement getDeleteProject;
 
     @FindBy(xpath = "//a[contains(@href,'ws')]")
     private WebElement workspaceButton;
@@ -35,6 +36,10 @@ public class FreestyleProjectDetailsPage extends BaseDetailsPage<FreestyleProjec
 
     @FindBy(xpath = "//ul[@style='list-style-type: none;']/li/a")
     private List<WebElement> upstreamProjectsList;
+
+    @FindBy(xpath = "//button[@data-id=\"ok\"]")
+    WebElement getDeleteOkButton;
+
 
     public FreestyleProjectDetailsPage(WebDriver driver) {
         super(driver);
@@ -78,8 +83,9 @@ public class FreestyleProjectDetailsPage extends BaseDetailsPage<FreestyleProjec
     }
 
     public HomePage deleteProject() {
-        deleteProject.click();
-        getDriver().switchTo().alert().accept();
+        getDeleteProject.click();
+        getWait5().until(ExpectedConditions.elementToBeClickable(getDeleteOkButton));
+        getDeleteOkButton.click();
 
         return new HomePage(getDriver());
     }
