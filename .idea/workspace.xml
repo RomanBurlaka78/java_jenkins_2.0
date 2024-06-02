@@ -4,16 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01a2cb71-1dce-4a10-8921-a27d9f53efe9" name="Changes" comment="">
-<<<<<<< HEAD
+    <list default="true" id="224b737c-f67d-47f6-af57-f8a2c2223ef3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/roman/jenkins/FreestyleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/FreestyleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/NewItemPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/NewItemPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/jobs/details/FreestyleProjectDetailsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/roman/jenkins/model/jobs/details/FreestyleProjectDetailsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-roman.jenkins.FreestyleTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-roman.jenkins.FreestyleTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-roman.jenkins.runner.order.OrderForTestsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-roman.jenkins.runner.order.OrderForTestsTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/roman/jenkins/FreestyleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/roman/jenkins/FreestyleTest.class" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/.github/wait-for-jenkins.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/cancel.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" />
->>>>>>> main
+      <change beforePath="$PROJECT_DIR$/target/test-classes/roman/jenkins/model/NewItemPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/roman/jenkins/model/NewItemPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/roman/jenkins/model/jobs/details/FreestyleProjectDetailsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/roman/jenkins/model/jobs/details/FreestyleProjectDetailsPage.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +37,17 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="TestNG" name="FreestyleTest.testDeleteProject" />
+    </enabled-run-configurations>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -38,32 +57,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.java_jenkins_local_2.0_Roman [test].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TestNG.FirstTest.firstTest.executor": "Run",
-    "TestNG.FolderTest.testCreate.executor": "Run",
-    "TestNG.FreestyleTest.executor": "Run",
-<<<<<<< HEAD
-    "TestNG.FreestyleTest.testAddDescriptions.executor": "Run",
-    "TestNG.FreestyleTest.testCreate.executor": "Run",
-    "TestNG.FreestyleTest.testRenameFreestyleProject.executor": "Run",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Disk D/RedRover.shools/java_jenkins_local_2.0/java_jenkins_local_2.0/.github",
-=======
-    "TestNG.FreestyleTest.testCreate.executor": "Run",
-    "TestNG.FreestyleTest.testRenameFreestyleProject.executor": "Run",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Disk D/RedRover.shools/java_jenkins_local_2.0/java_jenkins_local_2.0",
->>>>>>> main
-    "onboarding.tips.debug.path": "C:/Disk D/RedRover.shools/java_jenkins_local_2.0/java_jenkins_local_2.0/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.java_jenkins_local_2.0_Roman [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.FreestyleTest.testCreate.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FreestyleTest.testCreateFreeStyleProject.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FreestyleTest.testCreateWithSameName.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FreestyleTest.testDeleteProject.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FreestyleTest.testRenameFreestyleProject.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FreestyleTest.testisExistFreestyleProject.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\.github" />
@@ -77,79 +84,7 @@
       <recent name="roman.jenkins.model.base" />
     </key>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="TestNG.FreestyleTest.testAddDescriptions">
-=======
-  <component name="RunManager" selected="TestNG.FreestyleTest.testRenameFreestyleProject">
-    <configuration name="FirstTest.firstTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="java_jenkins_local_2.0" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTest" />
-      <option name="METHOD_NAME" value="firstTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
->>>>>>> main
-    <configuration name="FolderTest.testCreate" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="java_jenkins_local_2.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="school.redrover.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="school.redrover" />
-      <option name="MAIN_CLASS_NAME" value="school.redrover.FolderTest" />
-      <option name="METHOD_NAME" value="testCreate" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FreestyleTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="java_jenkins_local_2.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="roman.jenkins.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="roman.jenkins" />
-      <option name="MAIN_CLASS_NAME" value="roman.jenkins.FreestyleTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="FreestyleTest.testAddDescriptions" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="java_jenkins_local_2.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="roman.jenkins.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="roman.jenkins" />
-      <option name="MAIN_CLASS_NAME" value="roman.jenkins.FreestyleTest" />
-      <option name="METHOD_NAME" value="testAddDescriptions" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-=======
->>>>>>> main
+  <component name="RunManager" selected="TestNG.FreestyleTest.testCreate">
     <configuration name="FreestyleTest.testCreate" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java_jenkins_local_2.0" />
       <extension name="coverage">
@@ -161,6 +96,60 @@
       <option name="PACKAGE_NAME" value="roman.jenkins" />
       <option name="MAIN_CLASS_NAME" value="roman.jenkins.FreestyleTest" />
       <option name="METHOD_NAME" value="testCreate" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreestyleTest.testCreateFreeStyleProject" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_jenkins_local_2.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="roman.jenkins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="roman.jenkins" />
+      <option name="MAIN_CLASS_NAME" value="roman.jenkins.FreestyleTest" />
+      <option name="METHOD_NAME" value="testCreateFreeStyleProject" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreestyleTest.testCreateWithSameName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_jenkins_local_2.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="roman.jenkins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="roman.jenkins" />
+      <option name="MAIN_CLASS_NAME" value="roman.jenkins.FreestyleTest" />
+      <option name="METHOD_NAME" value="testCreateWithSameName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreestyleTest.testDeleteProject" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_jenkins_local_2.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="roman.jenkins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="roman.jenkins" />
+      <option name="MAIN_CLASS_NAME" value="roman.jenkins.FreestyleTest" />
+      <option name="METHOD_NAME" value="testDeleteProject" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -188,16 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="TestNG.FreestyleTest.testAddDescriptions" />
-=======
-        <item itemvalue="TestNG.FreestyleTest.testRenameFreestyleProject" />
-        <item itemvalue="TestNG.FreestyleTest" />
->>>>>>> main
         <item itemvalue="TestNG.FreestyleTest.testCreate" />
+        <item itemvalue="TestNG.FreestyleTest.testDeleteProject" />
+        <item itemvalue="TestNG.FreestyleTest.testCreateWithSameName" />
+        <item itemvalue="TestNG.FreestyleTest.testCreateFreeStyleProject" />
         <item itemvalue="TestNG.FreestyleTest.testRenameFreestyleProject" />
-        <item itemvalue="TestNG.FreestyleTest" />
-        <item itemvalue="TestNG.FolderTest.testCreate" />
       </list>
     </recent_temporary>
   </component>
@@ -211,23 +195,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="01a2cb71-1dce-4a10-8921-a27d9f53efe9" name="Changes" comment="" />
+      <changelist id="224b737c-f67d-47f6-af57-f8a2c2223ef3" name="Changes" comment="" />
       <created>1716200968912</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716200968912</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
