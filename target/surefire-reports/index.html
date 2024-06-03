@@ -299,7 +299,6 @@
       &lt;class name=&quot;roman.jenkins.FolderTest&quot;/&gt;
       &lt;class name=&quot;roman.jenkins.FreestyleTest&quot;/&gt;
       &lt;class name=&quot;roman.jenkins.runner.BaseTest&quot;/&gt;
-      &lt;class name=&quot;roman.jenkins.runner.CucumberTest&quot;/&gt;
       &lt;class name=&quot;roman.jenkins.runner.FilterForTests&quot;/&gt;
       &lt;class name=&quot;roman.jenkins.runner.order.OrderForTests&quot;/&gt;
       &lt;class name=&quot;roman.jenkins.runner.order.OrderForTestsTest&quot;/&gt;
@@ -317,7 +316,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Surefire test (8 classes)</span>
+                <span class="test-name">Surefire test (7 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -347,60 +346,60 @@ data.addRows(13);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'testDeleteProject')
 data.setCell(0, 2, 'roman.jenkins.FreestyleTest')
-data.setCell(0, 3, 13973);
+data.setCell(0, 3, 13268);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'testCreate')
 data.setCell(1, 2, 'roman.jenkins.FreestyleTest')
-data.setCell(1, 3, 3749);
+data.setCell(1, 3, 2350);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'testRenameFreestyleProject')
 data.setCell(2, 2, 'roman.jenkins.FreestyleTest')
-data.setCell(2, 3, 2042);
+data.setCell(2, 3, 1784);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'testAddDescriptions')
 data.setCell(3, 2, 'roman.jenkins.FreestyleTest')
-data.setCell(3, 3, 1816);
+data.setCell(3, 3, 1267);
 data.setCell(4, 0, 4)
 data.setCell(4, 1, 'testCreateWithSameName')
 data.setCell(4, 2, 'roman.jenkins.FreestyleTest')
-data.setCell(4, 3, 929);
+data.setCell(4, 3, 540);
 data.setCell(5, 0, 5)
 data.setCell(5, 1, 'testisExistFreestyleProject')
 data.setCell(5, 2, 'roman.jenkins.FreestyleTest')
-data.setCell(5, 3, 462);
+data.setCell(5, 3, 323);
 data.setCell(6, 0, 6)
-data.setCell(6, 1, 'orderMethodsForkDownDepTest')
+data.setCell(6, 1, 'orderMethodsCycleDepTest')
 data.setCell(6, 2, 'roman.jenkins.runner.order.OrderForTestsTest')
-data.setCell(6, 3, 21);
+data.setCell(6, 3, 11);
 data.setCell(7, 0, 7)
-data.setCell(7, 1, 'orderMethodsCycleDepTest')
+data.setCell(7, 1, 'orderMethodsNoDepTest')
 data.setCell(7, 2, 'roman.jenkins.runner.order.OrderForTestsTest')
-data.setCell(7, 3, 15);
+data.setCell(7, 3, 3);
 data.setCell(8, 0, 8)
 data.setCell(8, 1, 'orderMethodsTest')
 data.setCell(8, 2, 'roman.jenkins.runner.order.OrderForTestsTest')
-data.setCell(8, 3, 4);
+data.setCell(8, 3, 2);
 data.setCell(9, 0, 9)
-data.setCell(9, 1, 'orderMethodsNoDepTest')
+data.setCell(9, 1, 'orderMethodsForkDownDepTest')
 data.setCell(9, 2, 'roman.jenkins.runner.order.OrderForTestsTest')
-data.setCell(9, 3, 4);
+data.setCell(9, 3, 2);
 data.setCell(10, 0, 10)
-data.setCell(10, 1, 'orderMethodsForkUpDepTest')
+data.setCell(10, 1, 'orderMethodsOneGroupDepTest')
 data.setCell(10, 2, 'roman.jenkins.runner.order.OrderForTestsTest')
-data.setCell(10, 3, 3);
+data.setCell(10, 3, 2);
 data.setCell(11, 0, 11)
-data.setCell(11, 1, 'orderMethodsOneGroupDepTest')
+data.setCell(11, 1, 'orderMethodsTwoDifferentGroupsDepTest')
 data.setCell(11, 2, 'roman.jenkins.runner.order.OrderForTestsTest')
-data.setCell(11, 3, 3);
+data.setCell(11, 3, 2);
 data.setCell(12, 0, 12)
-data.setCell(12, 1, 'orderMethodsTwoDifferentGroupsDepTest')
+data.setCell(12, 1, 'orderMethodsForkUpDepTest')
 data.setCell(12, 2, 'roman.jenkins.runner.order.OrderForTestsTest')
 data.setCell(12, 3, 2);
 window.suiteTableData['Surefire_suite']= { tableData: data, tableDiv: 'times-div-Surefire_suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 23 seconds</span>
+              <span class="suite-total-time">Total running time: 19 seconds</span>
               <div id="times-div-Surefire_suite">
               </div> <!-- times-div-Surefire_suite -->
             </div> <!-- times-div -->
@@ -449,117 +448,106 @@ return data;
               </div> <!-- configuration-class before -->
               <div class="configuration-method before">
                 <span class="method-name">beforeMethod(public void roman.jenkins.FreestyleTest.testCreate())</span>
-                <span class="method-start">61 ms</span>
+                <span class="method-start">62 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">testCreate</span>
-                <span class="method-start">6726 ms</span>
+                <span class="method-start">5682 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">afterMethod(public void roman.jenkins.FreestyleTest.testCreate(), [TestResult name=testCreate status=SUCCESS met...)</span>
-                <span class="method-start">10479 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method before">
-                <span class="method-name">beforeMethod(public void roman.jenkins.FreestyleTest.testCreateWithSameName())</span>
-                <span class="method-start">10494 ms</span>
-              </div> <!-- configuration-method before -->
-              <div class="test-method">
-                <span class="method-name">testCreateWithSameName</span>
-                <span class="method-start">10811 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">afterMethod(public void roman.jenkins.FreestyleTest.testCreateWithSameName(), [TestResult name=testCreateWithSam...)</span>
-                <span class="method-start">11744 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method before">
-                <span class="method-name">beforeMethod(public void roman.jenkins.FreestyleTest.testisExistFreestyleProject())</span>
-                <span class="method-start">11747 ms</span>
-              </div> <!-- configuration-method before -->
-              <div class="test-method">
-                <span class="method-name">testisExistFreestyleProject</span>
-                <span class="method-start">12140 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">afterMethod(public void roman.jenkins.FreestyleTest.testisExistFreestyleProject(), [TestResult name=testisExistF...)</span>
-                <span class="method-start">12603 ms</span>
+                <span class="method-start">8040 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">beforeMethod(public void roman.jenkins.FreestyleTest.testAddDescriptions())</span>
-                <span class="method-start">12606 ms</span>
+                <span class="method-start">8047 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">testAddDescriptions</span>
-                <span class="method-start">12885 ms</span>
+                <span class="method-start">8253 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">afterMethod(public void roman.jenkins.FreestyleTest.testAddDescriptions(), [TestResult name=testAddDescriptions ...)</span>
-                <span class="method-start">14701 ms</span>
+                <span class="method-start">9521 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod(public void roman.jenkins.FreestyleTest.testCreateWithSameName())</span>
+                <span class="method-start">9524 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testCreateWithSameName</span>
+                <span class="method-start">10293 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod(public void roman.jenkins.FreestyleTest.testCreateWithSameName(), [TestResult name=testCreateWithSam...)</span>
+                <span class="method-start">10834 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod(public void roman.jenkins.FreestyleTest.testisExistFreestyleProject())</span>
+                <span class="method-start">10839 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testisExistFreestyleProject</span>
+                <span class="method-start">11054 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod(public void roman.jenkins.FreestyleTest.testisExistFreestyleProject(), [TestResult name=testisExistF...)</span>
+                <span class="method-start">11378 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">beforeMethod(public void roman.jenkins.FreestyleTest.testRenameFreestyleProject())</span>
-                <span class="method-start">14703 ms</span>
+                <span class="method-start">11380 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">testRenameFreestyleProject</span>
-                <span class="method-start">14939 ms</span>
+                <span class="method-start">11583 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">afterMethod(public void roman.jenkins.FreestyleTest.testRenameFreestyleProject(), [TestResult name=testRenameFre...)</span>
-                <span class="method-start">16982 ms</span>
+                <span class="method-start">13370 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">beforeMethod(public void roman.jenkins.FreestyleTest.testDeleteProject())</span>
-                <span class="method-start">18254 ms</span>
+                <span class="method-start">14188 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">testDeleteProject</span>
-                <span class="method-start">24010 ms</span>
+                <span class="method-start">18651 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">afterMethod(public void roman.jenkins.FreestyleTest.testDeleteProject(), [TestResult name=testDeleteProject stat...)</span>
-                <span class="method-start">37983 ms</span>
+                <span class="method-start">31919 ms</span>
               </div> <!-- configuration-method after -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">roman.jenkins.runner.CucumberTest</div> <!-- chronological-class-name -->
-              <div class="configuration-class before">
-                <span class="method-name">setUpClass(org.testng.TestRunner@385ef531)</span>
-                <span class="method-start">41158 ms</span>
-              </div> <!-- configuration-class before -->
-              <div class="configuration-class after">
-                <span class="method-name">tearDownClass</span>
-                <span class="method-start">41373 ms</span>
-              </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">roman.jenkins.runner.order.OrderForTestsTest</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">orderMethodsCycleDepTest</span>
-                <span class="method-start">41379 ms</span>
+                <span class="method-start">32734 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">orderMethodsForkDownDepTest</span>
-                <span class="method-start">41396 ms</span>
+                <span class="method-start">32747 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">orderMethodsForkUpDepTest</span>
-                <span class="method-start">41425 ms</span>
+                <span class="method-start">32751 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">orderMethodsNoDepTest</span>
-                <span class="method-start">41429 ms</span>
+                <span class="method-start">32755 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">orderMethodsOneGroupDepTest</span>
-                <span class="method-start">41447 ms</span>
+                <span class="method-start">32761 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">orderMethodsTest</span>
-                <span class="method-start">41452 ms</span>
+                <span class="method-start">32765 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">orderMethodsTwoDifferentGroupsDepTest</span>
-                <span class="method-start">41459 ms</span>
+                <span class="method-start">32768 ms</span>
               </div> <!-- test-method -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
