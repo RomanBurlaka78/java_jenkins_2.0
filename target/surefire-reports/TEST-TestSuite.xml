@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="43.091" tests="13" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="34.004" tests="13" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="PL"/>
     <property name="sun.boot.library.path" value="C:\Users\iylia\.jdks\corretto-17.0.7\bin"/>
-    <property name="sun.java.command" value="C:\Users\iylia\AppData\Local\Temp\surefire5092695508432976708\surefirebooter-20240602230242907_3.jar C:\Users\iylia\AppData\Local\Temp\surefire5092695508432976708 2024-06-02T23-02-42_480-jvmRun1 surefire-20240602230242907_1tmp surefire_0-20240602230242907_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\iylia\AppData\Local\Temp\surefire14849043738802884522\surefirebooter-20240603113418377_3.jar C:\Users\iylia\AppData\Local\Temp\surefire14849043738802884522 2024-06-03T11-34-17_993-jvmRun1 surefire-20240603113418377_1tmp surefire_0-20240603113418377_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\target\test-classes;C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\target\classes;C:\Users\iylia\.m2\repository\org\testng\testng\7.9.0\testng-7.9.0.jar;C:\Users\iylia\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\iylia\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\iylia\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\iylia\.m2\repository\org\seleniumhq\selenium\selenium-java\4.20.0\selenium-java-4.20.0.jar;C:\Users\iylia\.m2\repository\org\seleniumhq\selenium\selenium-api\4.20.0\selenium-api-4.20.0.jar;C:\Users\iylia\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.20.0\selenium-chrome-driver-4.20.0.jar;C:\Users\iylia\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\iylia\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.20.0\selenium-chromium-driver-4.20.0.jar;C:\Users\iylia\.m2\repository\org\seleniumhq\selenium\selenium-json\4.20.0\selenium-json-4.20.0.jar;C:\Users\iylia\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.20.0\selenium-manager-4.20.0.jar;C:\Users\iylia\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v122\4.20.0\selenium-devtools-v122-4.20.0.jar;C:\Users\iylia\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v123\4.20.0\selenium-devtools-v123-4.20.0.jar;C:\Users\iylia\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v124\4.20.0\selenium-devtools-v124-4.20.0.jar;C:\Users\iylia\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.20.0\selenium-devtools-v85-4.20.0.jar;C:\Users\iylia\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.20.0\selenium-edge-driver-4.20.0.jar;C:\Users\iylia\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.20.0\selenium-firefox-driver-4.20.0.jar;C:\Users\iylia\.m2\repository\org\seleniumhq\selenium\selenium-http\4.20.0\selenium-http-4.20.0.jar;C:\Users\iylia\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\iylia\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.20.0\selenium-ie-driver-4.20.0.jar;C:\Users\iylia\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.20.0\selenium-remote-driver-4.20.0.jar;C:\Users\iylia\.m2\repository\com\google\guava\guava\33.1.0-jre\guava-33.1.0-jre.jar;C:\Users\iylia\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\iylia\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\iylia\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\iylia\.m2\repository\org\checkerframework\checker-qual\3.42.0\checker-qual-3.42.0.jar;C:\Users\iylia\.m2\repository\com\google\errorprone\error_prone_annotations\2.26.1\error_prone_annotations-2.26.1.jar;C:\Users\iylia\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\iylia\.m2\repository\io\opentelemetry\semconv\opentelemetry-semconv\1.25.0-alpha\opentelemetry-semconv-1.25.0-alpha.jar;C:\Users\iylia\.m2\repository\io\opentelemetry\opentelemetry-api\1.37.0\opentelemetry-api-1.37.0.jar;C:\Users\iylia\.m2\repository\io\opentelemetry\opentelemetry-context\1.37.0\opentelemetry-context-1.37.0.jar;C:\Users\iylia\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.37.0\opentelemetry-exporter-logging-1.37.0.jar;C:\Users\iylia\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.37.0\opentelemetry-sdk-common-1.37.0.jar;C:\Users\iylia\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.37.0\opentelemetry-sdk-extension-autoconfigure-spi-1.37.0.jar;C:\Users\iylia\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.37.0\opentelemetry-sdk-extension-autoconfigure-1.37.0.jar;C:\Users\iylia\.m2\repository\io\opentelemetry\opentelemetry-api-incubator\1.37.0-alpha\opentelemetry-api-incubator-1.37.0-alpha.jar;C:\Users\iylia\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.37.0\opentelemetry-sdk-trace-1.37.0.jar;C:\Users\iylia\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.37.0\opentelemetry-sdk-1.37.0.jar;C:\Users\iylia\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.37.0\opentelemetry-sdk-metrics-1.37.0.jar;C:\Users\iylia\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.37.0\opentelemetry-sdk-logs-1.37.0.jar;C:\Users\iylia\.m2\repository\net\bytebuddy\byte-buddy\1.14.14\byte-buddy-1.14.14.jar;C:\Users\iylia\.m2\repository\org\seleniumhq\selenium\selenium-os\4.20.0\selenium-os-4.20.0.jar;C:\Users\iylia\.m2\repository\org\apache\commons\commons-exec\1.4.0\commons-exec-1.4.0.jar;C:\Users\iylia\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.20.0\selenium-safari-driver-4.20.0.jar;C:\Users\iylia\.m2\repository\org\seleniumhq\selenium\selenium-support\4.20.0\selenium-support-4.20.0.jar;C:\Users\iylia\.m2\repository\io\rest-assured\rest-assured\5.3.1\rest-assured-5.3.1.jar;C:\Users\iylia\.m2\repository\org\apache\groovy\groovy\4.0.11\groovy-4.0.11.jar;C:\Users\iylia\.m2\repository\org\apache\groovy\groovy-xml\4.0.11\groovy-xml-4.0.11.jar;C:\Users\iylia\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\iylia\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\iylia\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\iylia\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\iylia\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\iylia\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\iylia\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\iylia\.m2\repository\io\rest-assured\json-path\5.3.1\json-path-5.3.1.jar;C:\Users\iylia\.m2\repository\org\apache\groovy\groovy-json\4.0.11\groovy-json-4.0.11.jar;C:\Users\iylia\.m2\repository\io\rest-assured\rest-assured-common\5.3.1\rest-assured-common-5.3.1.jar;C:\Users\iylia\.m2\repository\io\rest-assured\xml-path\5.3.1\xml-path-5.3.1.jar;C:\Users\iylia\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\iylia\.m2\repository\io\cucumber\cucumber-java\7.12.1\cucumber-java-7.12.1.jar;C:\Users\iylia\.m2\repository\io\cucumber\cucumber-core\7.12.1\cucumber-core-7.12.1.jar;C:\Users\iylia\.m2\repository\io\cucumber\cucumber-gherkin\7.12.1\cucumber-gherkin-7.12.1.jar;C:\Users\iylia\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.12.1\cucumber-gherkin-messages-7.12.1.jar;C:\Users\iylia\.m2\repository\io\cucumber\gherkin\26.2.0\gherkin-26.2.0.jar;C:\Users\iylia\.m2\repository\io\cucumber\messages\22.0.0\messages-22.0.0.jar;C:\Users\iylia\.m2\repository\io\cucumber\tag-expressions\5.0.1\tag-expressions-5.0.1.jar;C:\Users\iylia\.m2\repository\io\cucumber\cucumber-expressions\16.1.2\cucumber-expressions-16.1.2.jar;C:\Users\iylia\.m2\repository\io\cucumber\datatable\7.12.1\datatable-7.12.1.jar;C:\Users\iylia\.m2\repository\io\cucumber\cucumber-plugin\7.12.1\cucumber-plugin-7.12.1.jar;C:\Users\iylia\.m2\repository\io\cucumber\docstring\7.12.1\docstring-7.12.1.jar;C:\Users\iylia\.m2\repository\io\cucumber\html-formatter\20.3.1\html-formatter-20.3.1.jar;C:\Users\iylia\.m2\repository\io\cucumber\junit-xml-formatter\0.2.0\junit-xml-formatter-0.2.0.jar;C:\Users\iylia\.m2\repository\io\cucumber\ci-environment\9.2.0\ci-environment-9.2.0.jar;C:\Users\iylia\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\iylia\.m2\repository\io\cucumber\cucumber-testng\7.12.1\cucumber-testng-7.12.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\iylia\AppData\Local\Temp\surefire5092695508432976708\surefirebooter-20240602230242907_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\iylia\AppData\Local\Temp\surefire14849043738802884522\surefirebooter-20240603113418377_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.7+7-LTS"/>
@@ -58,7 +58,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testCreate" classname="roman.jenkins.FreestyleTest" time="3.75">
+  <testcase name="testCreate" classname="roman.jenkins.FreestyleTest" time="2.354">
     <system-out><![CDATA[Run roman.jenkins.FreestyleTest.testCreate
 Clear data
 Browser open
@@ -68,19 +68,27 @@ Login
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-cze 02, 2024 11:02:50 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+cze 03, 2024 11:34:24 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 125, returning the closest version; found: 124; Please update to a Selenium version that supports CDP version 125
 ]]></system-err>
   </testcase>
-  <testcase name="testCreateWithSameName" classname="roman.jenkins.FreestyleTest" time="0.93">
-    <system-out><![CDATA[Execution time is 3 sec
+  <testcase name="testAddDescriptions" classname="roman.jenkins.FreestyleTest" time="1.263">
+    <system-out><![CDATA[Execution time is 2 sec
+
+
+Run roman.jenkins.FreestyleTest.testAddDescriptions
+Get web page
+]]></system-out>
+  </testcase>
+  <testcase name="testCreateWithSameName" classname="roman.jenkins.FreestyleTest" time="0.539">
+    <system-out><![CDATA[Execution time is 1 sec
 
 
 Run roman.jenkins.FreestyleTest.testCreateWithSameName
 Get web page
 ]]></system-out>
   </testcase>
-  <testcase name="testisExistFreestyleProject" classname="roman.jenkins.FreestyleTest" time="0.462">
+  <testcase name="testisExistFreestyleProject" classname="roman.jenkins.FreestyleTest" time="0.32">
     <system-out><![CDATA[Execution time is 0 sec
 
 
@@ -88,25 +96,17 @@ Run roman.jenkins.FreestyleTest.testisExistFreestyleProject
 Get web page
 ]]></system-out>
   </testcase>
-  <testcase name="testAddDescriptions" classname="roman.jenkins.FreestyleTest" time="1.815">
+  <testcase name="testRenameFreestyleProject" classname="roman.jenkins.FreestyleTest" time="1.785">
     <system-out><![CDATA[Execution time is 0 sec
-
-
-Run roman.jenkins.FreestyleTest.testAddDescriptions
-Get web page
-]]></system-out>
-  </testcase>
-  <testcase name="testRenameFreestyleProject" classname="roman.jenkins.FreestyleTest" time="2.036">
-    <system-out><![CDATA[Execution time is 1 sec
 
 
 Run roman.jenkins.FreestyleTest.testRenameFreestyleProject
 Get web page
 ]]></system-out>
   </testcase>
-  <testcase name="testDeleteProject" classname="roman.jenkins.FreestyleTest" time="13.969">
+  <testcase name="testDeleteProject" classname="roman.jenkins.FreestyleTest" time="13.266">
     <system-out><![CDATA[Browser closed
-Execution time is 2 sec
+Execution time is 1 sec
 
 
 Run roman.jenkins.FreestyleTest.testDeleteProject
@@ -115,24 +115,21 @@ Browser open
 Get web page
 Login
 ]]></system-out>
-    <system-err><![CDATA[cze 02, 2024 11:03:06 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+    <system-err><![CDATA[cze 03, 2024 11:34:37 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 125, returning the closest version; found: 124; Please update to a Selenium version that supports CDP version 125
 ]]></system-err>
   </testcase>
-  <testcase name="orderMethodsCycleDepTest" classname="roman.jenkins.runner.order.OrderForTestsTest" time="0.013">
+  <testcase name="orderMethodsCycleDepTest" classname="roman.jenkins.runner.order.OrderForTestsTest" time="0.008">
     <system-out><![CDATA[Browser closed
 Execution time is 15 sec
 
 
 ]]></system-out>
-    <system-err><![CDATA[cze 02, 2024 11:03:26 PM io.cucumber.core.runtime.FeaturePathFeatureSupplier get
-WARNING: No features found at file:/C:/Disk%20D/RedRover.shools/java_jenkins_local_2.0/java_jenkins_local_2.0/src/test/resources/cucumber/
-]]></system-err>
   </testcase>
-  <testcase name="orderMethodsForkDownDepTest" classname="roman.jenkins.runner.order.OrderForTestsTest" time="0.021"/>
-  <testcase name="orderMethodsForkUpDepTest" classname="roman.jenkins.runner.order.OrderForTestsTest" time="0.003"/>
-  <testcase name="orderMethodsNoDepTest" classname="roman.jenkins.runner.order.OrderForTestsTest" time="0.013"/>
+  <testcase name="orderMethodsForkDownDepTest" classname="roman.jenkins.runner.order.OrderForTestsTest" time="0.003"/>
+  <testcase name="orderMethodsForkUpDepTest" classname="roman.jenkins.runner.order.OrderForTestsTest" time="0.002"/>
+  <testcase name="orderMethodsNoDepTest" classname="roman.jenkins.runner.order.OrderForTestsTest" time="0.004"/>
   <testcase name="orderMethodsOneGroupDepTest" classname="roman.jenkins.runner.order.OrderForTestsTest" time="0.002"/>
-  <testcase name="orderMethodsTest" classname="roman.jenkins.runner.order.OrderForTestsTest" time="0.006"/>
+  <testcase name="orderMethodsTest" classname="roman.jenkins.runner.order.OrderForTestsTest" time="0.002"/>
   <testcase name="orderMethodsTwoDifferentGroupsDepTest" classname="roman.jenkins.runner.order.OrderForTestsTest" time="0.002"/>
 </testsuite>

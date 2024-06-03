@@ -78,13 +78,11 @@ roman\jenkins\model\RestApiPage.class
 roman\jenkins\model\base\BasePage.class
 roman\jenkins\model\jobs\configs\MultibranchPipelineConfigurationPage.class
 roman\jenkins\model\users\UserViewPage.class
-roman\jenkins\runner\CucumberTest.class
 roman\jenkins\model\base\BaseErrorPage.class
 roman\jenkins\runner\JenkinsUtils.class
 roman\jenkins\runner\order\OrderUtils.class
 roman\jenkins\runner\ProjectUtils.class
 roman\jenkins\model\builds\BuildHistoryPage.class
-roman\jenkins\runner\CucumberDriver.class
 roman\jenkins\model\CustomLogRecorderPage.class
 roman\jenkins\model\jobs\configs\FolderConfigurationPage.class
 roman\jenkins\model\LoadStatisticsPage.class

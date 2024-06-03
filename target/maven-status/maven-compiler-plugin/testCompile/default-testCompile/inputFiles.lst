@@ -23,7 +23,6 @@ C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\src\test
 C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\src\test\java\roman\jenkins\model\jobs\details\MultiConfigurationDetailsPage.java
 C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\src\test\java\roman\jenkins\model\view\NewViewPageFromDashboard.java
 C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\src\test\java\roman\jenkins\runner\order\OrderForTests.java
-C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\src\test\java\roman\jenkins\runner\CucumberTest.java
 C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\src\test\java\roman\jenkins\model\users\UserBuildPage.java
 C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\src\test\java\roman\jenkins\FolderTest.java
 C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\src\test\java\roman\jenkins\model\nodes\NodeDetailsPage.java
@@ -56,7 +55,6 @@ C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\src\test
 C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\src\test\java\roman\jenkins\model\view\NewViewPageFromMyViewsPage.java
 C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\src\test\java\roman\jenkins\model\builds\BuildEditInformationPage.java
 C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\src\test\java\roman\jenkins\model\jobs\configs\FreestyleProjectConfigurePage.java
-C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\src\test\java\roman\jenkins\runner\CucumberDriver.java
 C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\src\test\java\roman\jenkins\model\jobs\details\FreestyleProjectDetailsPage.java
 C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\src\test\java\roman\jenkins\model\users\UserViewPage.java
 C:\Disk D\RedRover.shools\java_jenkins_local_2.0\java_jenkins_local_2.0\src\test\java\roman\jenkins\model\jobs\configs\OrganizationFolderConfigurationPage.java
