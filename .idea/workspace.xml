@@ -84,7 +84,54 @@
       <recent name="roman.jenkins.model.base" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FreestyleTest.testCreate">
+  <component name="RunManager" selected="TestNG.FreestyleTest.testRenameFreestyleProject">
+    <configuration name="FirstTest.firstTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_jenkins_local_2.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="METHOD_NAME" value="firstTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FolderTest.testCreate" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_jenkins_local_2.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="school.redrover.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="school.redrover" />
+      <option name="MAIN_CLASS_NAME" value="school.redrover.FolderTest" />
+      <option name="METHOD_NAME" value="testCreate" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreestyleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_jenkins_local_2.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="roman.jenkins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="roman.jenkins" />
+      <option name="MAIN_CLASS_NAME" value="roman.jenkins.FreestyleTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FreestyleTest.testCreate" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="java_jenkins_local_2.0" />
       <extension name="coverage">
@@ -96,60 +143,6 @@
       <option name="PACKAGE_NAME" value="roman.jenkins" />
       <option name="MAIN_CLASS_NAME" value="roman.jenkins.FreestyleTest" />
       <option name="METHOD_NAME" value="testCreate" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FreestyleTest.testCreateFreeStyleProject" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="java_jenkins_local_2.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="roman.jenkins.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="roman.jenkins" />
-      <option name="MAIN_CLASS_NAME" value="roman.jenkins.FreestyleTest" />
-      <option name="METHOD_NAME" value="testCreateFreeStyleProject" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FreestyleTest.testCreateWithSameName" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="java_jenkins_local_2.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="roman.jenkins.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="roman.jenkins" />
-      <option name="MAIN_CLASS_NAME" value="roman.jenkins.FreestyleTest" />
-      <option name="METHOD_NAME" value="testCreateWithSameName" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FreestyleTest.testDeleteProject" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="java_jenkins_local_2.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="roman.jenkins.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="roman.jenkins" />
-      <option name="MAIN_CLASS_NAME" value="roman.jenkins.FreestyleTest" />
-      <option name="METHOD_NAME" value="testDeleteProject" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -177,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FreestyleTest.testCreate" />
-        <item itemvalue="TestNG.FreestyleTest.testDeleteProject" />
-        <item itemvalue="TestNG.FreestyleTest.testCreateWithSameName" />
-        <item itemvalue="TestNG.FreestyleTest.testCreateFreeStyleProject" />
         <item itemvalue="TestNG.FreestyleTest.testRenameFreestyleProject" />
+        <item itemvalue="TestNG.FreestyleTest.testCreate" />
+        <item itemvalue="TestNG.FreestyleTest" />
+        <item itemvalue="TestNG.FolderTest.testCreate" />
+        <item itemvalue="TestNG.FirstTest.firstTest" />
       </list>
     </recent_temporary>
   </component>
