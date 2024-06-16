@@ -2,46 +2,46 @@
 <testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-03T11:34:20 CEST" name="Surefire suite" finished-at="2024-06-03T11:34:52 CEST" duration-ms="32853">
+  <suite started-at="2024-06-03T12:57:00 CEST" name="Surefire suite" finished-at="2024-06-03T12:57:40 CEST" duration-ms="40089">
     <groups>
     </groups>
-    <test started-at="2024-06-03T11:34:20 CEST" name="Surefire test" finished-at="2024-06-03T11:34:52 CEST" duration-ms="32853">
+    <test started-at="2024-06-03T12:57:00 CEST" name="Surefire test" finished-at="2024-06-03T12:57:40 CEST" duration-ms="40089">
       <class name="roman.jenkins.runner.order.OrderForTestsTest">
-        <test-method signature="orderMethodsCycleDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@61230f6a]" started-at="2024-06-03T11:34:52 CEST" name="orderMethodsCycleDepTest" finished-at="2024-06-03T11:34:52 CEST" duration-ms="11" status="PASS">
+        <test-method signature="orderMethodsCycleDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@61230f6a]" started-at="2024-06-03T12:57:40 CEST" name="orderMethodsCycleDepTest" finished-at="2024-06-03T12:57:40 CEST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orderMethodsCycleDepTest -->
-        <test-method signature="orderMethodsForkDownDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@61230f6a]" started-at="2024-06-03T11:34:52 CEST" name="orderMethodsForkDownDepTest" finished-at="2024-06-03T11:34:52 CEST" duration-ms="2" status="PASS">
+        <test-method signature="orderMethodsForkDownDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@61230f6a]" started-at="2024-06-03T12:57:40 CEST" name="orderMethodsForkDownDepTest" finished-at="2024-06-03T12:57:40 CEST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orderMethodsForkDownDepTest -->
-        <test-method signature="orderMethodsForkUpDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@61230f6a]" started-at="2024-06-03T11:34:52 CEST" name="orderMethodsForkUpDepTest" finished-at="2024-06-03T11:34:52 CEST" duration-ms="2" status="PASS">
+        <test-method signature="orderMethodsForkUpDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@61230f6a]" started-at="2024-06-03T12:57:40 CEST" name="orderMethodsForkUpDepTest" finished-at="2024-06-03T12:57:40 CEST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orderMethodsForkUpDepTest -->
-        <test-method signature="orderMethodsNoDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@61230f6a]" started-at="2024-06-03T11:34:52 CEST" name="orderMethodsNoDepTest" finished-at="2024-06-03T11:34:52 CEST" duration-ms="3" status="PASS">
+        <test-method signature="orderMethodsNoDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@61230f6a]" started-at="2024-06-03T12:57:40 CEST" name="orderMethodsNoDepTest" finished-at="2024-06-03T12:57:40 CEST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orderMethodsNoDepTest -->
-        <test-method signature="orderMethodsOneGroupDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@61230f6a]" started-at="2024-06-03T11:34:52 CEST" name="orderMethodsOneGroupDepTest" finished-at="2024-06-03T11:34:52 CEST" duration-ms="2" status="PASS">
+        <test-method signature="orderMethodsOneGroupDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@61230f6a]" started-at="2024-06-03T12:57:40 CEST" name="orderMethodsOneGroupDepTest" finished-at="2024-06-03T12:57:40 CEST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orderMethodsOneGroupDepTest -->
-        <test-method signature="orderMethodsTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@61230f6a]" started-at="2024-06-03T11:34:52 CEST" name="orderMethodsTest" finished-at="2024-06-03T11:34:52 CEST" duration-ms="2" status="PASS">
+        <test-method signature="orderMethodsTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@61230f6a]" started-at="2024-06-03T12:57:40 CEST" name="orderMethodsTest" finished-at="2024-06-03T12:57:40 CEST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orderMethodsTest -->
-        <test-method signature="orderMethodsTwoDifferentGroupsDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@61230f6a]" started-at="2024-06-03T11:34:52 CEST" name="orderMethodsTwoDifferentGroupsDepTest" finished-at="2024-06-03T11:34:52 CEST" duration-ms="2" status="PASS">
+        <test-method signature="orderMethodsTwoDifferentGroupsDepTest()[pri:0, instance:roman.jenkins.runner.order.OrderForTestsTest@61230f6a]" started-at="2024-06-03T12:57:40 CEST" name="orderMethodsTwoDifferentGroupsDepTest" finished-at="2024-06-03T12:57:40 CEST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orderMethodsTwoDifferentGroupsDepTest -->
       </class> <!-- roman.jenkins.runner.order.OrderForTestsTest -->
       <class name="roman.jenkins.FreestyleTest">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:20 CEST" name="beforeClass" finished-at="2024-06-03T11:34:20 CEST" duration-ms="34" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:00 CEST" name="beforeClass" finished-at="2024-06-03T12:57:00 CEST" duration-ms="33" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:20 CEST" name="beforeMethod" finished-at="2024-06-03T11:34:25 CEST" duration-ms="5619" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:01 CEST" name="beforeMethod" finished-at="2024-06-03T12:57:07 CEST" duration-ms="6089" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -52,11 +52,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="testCreate()[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:25 CEST" name="testCreate" finished-at="2024-06-03T11:34:28 CEST" duration-ms="2350" status="PASS">
+        <test-method signature="testCreate()[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:07 CEST" name="testCreate" finished-at="2024-06-03T12:57:09 CEST" duration-ms="2587" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCreate -->
-        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:28 CEST" name="afterMethod" finished-at="2024-06-03T11:34:28 CEST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:09 CEST" name="afterMethod" finished-at="2024-06-03T12:57:09 CEST" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -72,7 +72,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:28 CEST" name="beforeMethod" finished-at="2024-06-03T11:34:28 CEST" duration-ms="206" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:09 CEST" name="beforeMethod" finished-at="2024-06-03T12:57:09 CEST" duration-ms="263" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -83,11 +83,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="testAddDescriptions()[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:28 CEST" name="testAddDescriptions" finished-at="2024-06-03T11:34:29 CEST" depends-on-methods="roman.jenkins.FreestyleTest.testCreate" duration-ms="1267" status="PASS">
+        <test-method signature="testAddDescriptions()[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:09 CEST" name="testAddDescriptions" finished-at="2024-06-03T12:57:11 CEST" depends-on-methods="roman.jenkins.FreestyleTest.testCreate" duration-ms="1504" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAddDescriptions -->
-        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:29 CEST" name="afterMethod" finished-at="2024-06-03T11:34:29 CEST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:11 CEST" name="afterMethod" finished-at="2024-06-03T12:57:11 CEST" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -103,7 +103,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:29 CEST" name="beforeMethod" finished-at="2024-06-03T11:34:30 CEST" duration-ms="769" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:11 CEST" name="beforeMethod" finished-at="2024-06-03T12:57:11 CEST" duration-ms="269" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -114,11 +114,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="testCreateWithSameName()[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:30 CEST" name="testCreateWithSameName" finished-at="2024-06-03T11:34:30 CEST" depends-on-methods="roman.jenkins.FreestyleTest.testCreate" duration-ms="540" status="PASS">
+        <test-method signature="testCreateWithSameName()[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:11 CEST" name="testCreateWithSameName" finished-at="2024-06-03T12:57:12 CEST" depends-on-methods="roman.jenkins.FreestyleTest.testCreate" duration-ms="608" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCreateWithSameName -->
-        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:30 CEST" name="afterMethod" finished-at="2024-06-03T11:34:30 CEST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:12 CEST" name="afterMethod" finished-at="2024-06-03T12:57:12 CEST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -134,7 +134,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:30 CEST" name="beforeMethod" finished-at="2024-06-03T11:34:31 CEST" duration-ms="215" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:12 CEST" name="beforeMethod" finished-at="2024-06-03T12:57:12 CEST" duration-ms="213" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -145,11 +145,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="testisExistFreestyleProject()[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:31 CEST" name="testisExistFreestyleProject" finished-at="2024-06-03T11:34:31 CEST" depends-on-methods="roman.jenkins.FreestyleTest.testCreate" duration-ms="323" status="PASS">
+        <test-method signature="testisExistFreestyleProject()[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:12 CEST" name="testisExistFreestyleProject" finished-at="2024-06-03T12:57:12 CEST" depends-on-methods="roman.jenkins.FreestyleTest.testCreate" duration-ms="310" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testisExistFreestyleProject -->
-        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:31 CEST" name="afterMethod" finished-at="2024-06-03T11:34:31 CEST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:12 CEST" name="afterMethod" finished-at="2024-06-03T12:57:12 CEST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -165,7 +165,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:31 CEST" name="beforeMethod" finished-at="2024-06-03T11:34:31 CEST" duration-ms="203" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:12 CEST" name="beforeMethod" finished-at="2024-06-03T12:57:13 CEST" duration-ms="207" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -176,11 +176,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="testRenameFreestyleProject()[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:31 CEST" name="testRenameFreestyleProject" finished-at="2024-06-03T11:34:33 CEST" depends-on-methods="roman.jenkins.FreestyleTest.testCreate" duration-ms="1784" status="PASS">
+        <test-method signature="testRenameFreestyleProject()[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:13 CEST" name="testRenameFreestyleProject" finished-at="2024-06-03T12:57:15 CEST" depends-on-methods="roman.jenkins.FreestyleTest.testCreate" duration-ms="1921" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRenameFreestyleProject -->
-        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:33 CEST" name="afterMethod" finished-at="2024-06-03T11:34:34 CEST" duration-ms="817" status="PASS">
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:15 CEST" name="afterMethod" finished-at="2024-06-03T12:57:16 CEST" duration-ms="1051" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -196,7 +196,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:34 CEST" name="beforeMethod" finished-at="2024-06-03T11:34:38 CEST" duration-ms="4462" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:16 CEST" name="beforeMethod" finished-at="2024-06-03T12:57:21 CEST" duration-ms="5489" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -207,11 +207,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="testDeleteProject()[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:38 CEST" name="testDeleteProject" finished-at="2024-06-03T11:34:52 CEST" duration-ms="13268" status="PASS">
+        <test-method signature="testDeleteProject()[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:21 CEST" name="testDeleteProject" finished-at="2024-06-03T12:57:37 CEST" duration-ms="16220" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDeleteProject -->
-        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T11:34:52 CEST" name="afterMethod" finished-at="2024-06-03T11:34:52 CEST" duration-ms="813" status="PASS">
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:roman.jenkins.FreestyleTest@418e7838]" started-at="2024-06-03T12:57:37 CEST" name="afterMethod" finished-at="2024-06-03T12:57:40 CEST" duration-ms="3145" status="PASS">
           <params>
             <param index="0">
               <value>

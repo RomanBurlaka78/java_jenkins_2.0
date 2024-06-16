@@ -6,7 +6,11 @@
       <class name="roman.jenkins.FreestyleTest">
         <methods>
           <include name="testCreate"/>
+          <include name="testDeleteProject"/>
+          <include name="testAddDescriptions"/>
+          <include name="testRenameFreestyleProject"/>
           <include name="beforeClass"/>
+          <include name="testisExistFreestyleProject"/>
           <include name="afterMethod"/>
           <include name="beforeMethod"/>
           <include name="testCreateWithSameName"/>
